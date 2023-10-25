@@ -1,0 +1,5 @@
+C:\Users\II novbe\Desktop\all task\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\II novbe\Desktop\all task\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.AssemblyInfoInputs.cache
+C:\Users\II novbe\Desktop\all task\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.AssemblyInfo.cs
+C:\Users\II novbe\Desktop\all task\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.csproj.CoreCompileInputs.cache
+C:\Users\II novbe\Desktop\all task\ClassTask\ClassTask\obj\Debug\net6.0\ClassTask.csproj.AssemblyReference.cache
